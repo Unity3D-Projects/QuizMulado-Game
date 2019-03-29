@@ -26,3 +26,10 @@ Com as moedas é possivel adquirir poderes na loja do game, dentre eles estão:
 
 A partida começa com uma lista de perguntas, e ao errar, a pergunta entra no final da lista para ser respondida posteriormente, e as perguntas que são puladas com o poder, irão pra uma nova lista onda utiliza o mesmo mecanismo de erro, a nova lista será chamada logo após a primeira lista não ter nenhuma pergunta (certa ou errada) para ser respondida, lembrando que não existe a possibilidade de pular uma mesma pergunta duas vezes na mesma partida.
 
+### Capturas de Tela:
+
+<p align="center">
+
+<img src="https://github.com/DoisLucas/QuizMulado-Game/blob/master/screenshots/screen2.gif" width="30%" height="30%"/>
+<img src="https://github.com/DoisLucas/QuizMulado-Game/blob/master/screenshots/screen1.gif" width="30%" height="30%"/>
+</p
